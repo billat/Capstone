@@ -344,41 +344,6 @@ Savings per Launch: $103M (62% reduction)
 
 ---
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-```bash
-Python 3.8+
-pip (Python package manager)
-Jupyter Notebook
-```
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/spacex-falcon9-prediction.git
-cd spacex-falcon9-prediction
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Running Notebooks
-
-```bash
-# Start Jupyter Notebook
-jupyter notebook
-
-# Navigate to notebooks/ folder
-# Run notebooks in sequence: 01 → 02 → 03 → 04 → 05 → 06
-```
-
 ### Running Dashboard
 
 ```bash
@@ -456,29 +421,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Coursera**: For learning platform
 - **Open Source Community**: For Python libraries and tools
 
----
 
-## 📞 Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
-
----
-
-## ⭐ Project Statistics
-
-- **Total Code Lines**: 2,000+
-- **Notebooks**: 6 complete
-- **SQL Queries**: 10
-- **Visualizations**: 15+
-- **ML Models Trained**: 4
-- **Accuracy Achieved**: 87.5%
-- **Project Duration**: 8 weeks
-- **Completion Status**: ✅ 100%
-
----
 
 <p align="center">
   <strong>🚀 Making Space Exploration More Affordable Through Data Science 🚀</strong>
